@@ -1,0 +1,15 @@
+body, html {
+    background-color: gray;
+    color: white;
+}
+.btn {
+    margin: 7px;
+}
+#text-input {
+    width: 70%;
+}
+
+.gif-holder {
+    margin: 5px;
+    display: inline-block;
+}
